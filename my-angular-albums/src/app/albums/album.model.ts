@@ -1,6 +1,6 @@
 export interface Album {
-    albumsArray: Album[];
-     id: number;
+  //  albumsArray: Album[];
+    id: number;
     artist: string;
     albumName: string;
     genre: string;
